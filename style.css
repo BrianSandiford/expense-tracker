@@ -1,0 +1,31 @@
+h1 {
+  text-align: center;
+}
+
+h3 {
+  text-align: center;
+  color: #47a386;
+}
+
+button {
+  background-color: #1b644d;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  color: #fff;
+  font-size: 14px;
+  padding: 10px 25px;
+  position: center;
+}
+
+th,
+td {
+  padding: 10px;
+}
+th {
+  border: solid rgb(187, 186, 186);
+}
+
+td {
+  background-color: #f0ecec;
+}
